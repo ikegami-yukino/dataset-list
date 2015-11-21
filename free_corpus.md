@@ -3,7 +3,7 @@ This is a list of text corpora available to free of charge
 
 ## Japanese
 
-### Tagged
+### Annotated
 
 #### 京都大学テキストコーパス (京大コーパス)
 - description
