@@ -62,3 +62,13 @@ This is a list of text corpora available to free of charge
  - 会誌「自然言語処理」に掲載された論文のLaTeXのソースファイル
 - URL
  - http://www.anlp.jp/resource/journal_latex/
+
+## English
+
+### Annotated
+
+#### The Open American National Corpus
+- description
+ - The Open American National Corpus (OANC) is a massive electronic collection of American English, including texts of all genres and transcripts of spoken data produced from 1990 onward. All data and annotations are fully open and unrestricted for any use.
+- URL
+ - http://www.anc.org/
