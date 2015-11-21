@@ -56,6 +56,15 @@ This is a list of text corpora available to free of charge
 - License
  - [丸ごとコピーしたいときも、文章自体を変えないで（変える場合にも変えたところを明示すればオッケー）、もとのURLと版権と、転載自由だってのさえ明記すればなーんも文句はつけないので、これも黙ってやってくれ。](http://cruel.org/linkpolicy.html)
 
+### N-gram
+#### Baidu ブログ・掲示板時間軸コーパス
+- description
+ - Baiduのクロールしたウェブデータから、掲示板の書き込みおよびブログの本文を、書き込まれた正確な時間とともに抽出し時系列に並べたデータを元にして作成したコーパスです。2000年1月～2010年7月の期間に対して、各1ヶ月ごとにスライスし、Nグラム（1グラム～3グラム）の統計を計算しています。
+- URL
+ - https://web.archive.org/web/*/http://www.baidu.jp/corpus/
+- license
+ - https://web.archive.org/web/20101130153412/http://www.baidu.jp/corpus/Baidu_Terms_and_condition_Corpus.pdf
+
 ### etc
 #### 言語処理学会論文誌LaTeXコーパス
 - description
