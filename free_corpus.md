@@ -46,6 +46,11 @@ This is a list of text corpora available to free of charge
 - https://web.archive.org/web/*/http://www.baidu.jp/corpus/
 - https://web.archive.org/web/20101130153412/http://www.baidu.jp/corpus/Baidu_Terms_and_condition_Corpus.pdf
 
+#### Baidu 絵文字入りモバイルウェブコーパス
+- 一般に公開されているAPIやプライベートなAPI、あるいは以下のBaidu絵文字入りモバイルウェブコーパス（Baiduがウェブから抽出した絵文字を含む日本語データから作成したNグラムデータ）です。
+- https://web.archive.org/web/*/http://www.baidu.jp/corpus/
+- https://web.archive.org/web/20101130153412/http://www.baidu.jp/corpus/Baidu_Terms_and_condition_Corpus.pdf
+
 ### etc
 #### 言語処理学会論文誌LaTeXコーパス
 - 会誌「自然言語処理」に掲載された論文のLaTeXのソースファイル
