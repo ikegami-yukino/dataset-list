@@ -63,3 +63,9 @@ This is a list of text corpora available to free of charge
 #### The Open American National Corpus
 - The Open American National Corpus (OANC) is a massive electronic collection of American English, including texts of all genres and transcripts of spoken data produced from 1990 onward. All data and annotations are fully open and unrestricted for any use.
 - http://www.anc.org/
+
+### Raw
+
+#### The 20 Newsgroups data set
+- The 20 newsgroups dataset comprises around 18000 newsgroups posts on 20 topics split in two subsets: one for training (or development) and the other one for testing (or for performance evaluation). The split between the train and test set is based upon a messages posted before and after a specific date.
+- http://qwone.com/~jason/20Newsgroups
