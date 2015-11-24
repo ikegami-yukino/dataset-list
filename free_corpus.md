@@ -69,3 +69,7 @@ This is a list of text corpora available to free of charge
 #### The 20 Newsgroups data set
 - The 20 newsgroups dataset comprises around 18000 newsgroups posts on 20 topics split in two subsets: one for training (or development) and the other one for testing (or for performance evaluation). The split between the train and test set is based upon a messages posted before and after a specific date.
 - http://qwone.com/~jason/20Newsgroups
+
+#### The University of Oxford Text Archive (OTA)
+- The University of Oxford Text Archive develops, collects, catalogues and preserves electronic literary and linguistic resources for use in Higher Education, in research, teaching and learning. The OTA also gives advice on the creation and use of these resources, and is involved in the development of standards and infrastructure for electronic language resources.
+- https://ota.ox.ac.uk/
