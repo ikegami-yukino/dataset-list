@@ -10,3 +10,8 @@
 - This in an exhaustive dataset of metadatas of all videos published on the site from its creation - 2007 - until february 2013. This represents almost 800,000 entries.
 - http://sexualitics.github.io/
 - Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+
+### Xnxx
+- This in an exhaustive dataset of metadatas of all videos published on the site from its creation - 2007 - until february 2013. This represents almost 800,000 entries.
+- http://sexualitics.github.io/
+- Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
