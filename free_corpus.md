@@ -25,6 +25,11 @@ This is a list of text corpora available to free of charge
 - http://www.cl.ecei.tohoku.ac.jp/~matsuda/LRE_corpus/
 - creative commons
 
+#### 近代女性雑誌コーパス
+- 明治後期～大正期の女性雑誌3種から40冊を抽出した全文コーパス / 本文テキストに、XMLを用いて文書構造・文字・表記に関する情報をタグ付け / 対象雑誌 ：　『女学雑誌』（女学雑誌社）　1894（明治27）年・1895（明治28）年　31冊『女学世界』（博文館）　1909（明治42）年　6冊『婦人倶楽部』（講談社）　1925（大正14）年　3冊 / 総文字数 ： 約210万字 / 著者数 ： 約480人
+- http://pj.ninjal.ac.jp/corpus_center/cmj/woman-mag/
+- CC BY-NC-ND 3.0
+
 ### Raw text
 #### livedoor ニュースコーパス (livedoor news corpus)
 - 本コーパスは、NHN Japan株式会社が運営する「livedoor ニュース」のうち、下記のクリエイティブ・コモンズライセンスが適用されるニュース記事を収集し、可能な限りHTMLタグを取り除いて作成したものです。
