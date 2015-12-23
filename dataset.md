@@ -1,6 +1,10 @@
 # other dataset
 
 ## Image
+### Manga109
+- Manga109は，日本のプロの漫画家によって描かれた109冊の漫画で構成されています．それらは，1970年代から2010年代に公開された漫画であり, 対象読者層やジャンルも幅広く網羅しています．
+- http://www.manga109.org/index.php
+
 ### Tiny Images Dataset
 - This page has links for downloading the Tiny Images dataset, which consists of 79,302,017 images, each being a 32x32 color image. This data is stored in the form of large binary files which can be accesed by a Matlab toolbox that we have written. You will need around 400Gb of free disk space to store all the files. In total there are 5 files that need to be downloaded, 3 of which are large binary files consisting of (i) the images themselves; (ii) their associated metadata (filename, search engine used, ranking etc.); (iii) Gist descriptors for each image. The other two files are the Matlab toolbox and index data file that together let you easily load in data from the binaries. 
 
