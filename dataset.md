@@ -7,6 +7,7 @@
 
 ### Tiny Images Dataset
 - This page has links for downloading the Tiny Images dataset, which consists of 79,302,017 images, each being a 32x32 color image. This data is stored in the form of large binary files which can be accesed by a Matlab toolbox that we have written. You will need around 400Gb of free disk space to store all the files. In total there are 5 files that need to be downloaded, 3 of which are large binary files consisting of (i) the images themselves; (ii) their associated metadata (filename, search engine used, ranking etc.); (iii) Gist descriptors for each image. The other two files are the Matlab toolbox and index data file that together let you easily load in data from the binaries. 
+- http://horatio.cs.nyu.edu/mit/tiny/data/
 
 ### Labeled Faces in the Wild
 - The data set contains more than 13,000 images of faces collected from the web. Each face has been labeled with the name of the person pictured. 1680 of the people pictured have two or more distinct photos in the data set.
@@ -31,4 +32,3 @@
 - This in an exhaustive dataset of metadatas of all videos published on the site from its creation - 2007 - until february 2013. This represents almost 800,000 entries.
 - http://sexualitics.github.io/
 - Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
-- http://horatio.cs.nyu.edu/mit/tiny/data/index.html
