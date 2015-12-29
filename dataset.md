@@ -8,6 +8,10 @@
 ### Tiny Images Dataset
 - This page has links for downloading the Tiny Images dataset, which consists of 79,302,017 images, each being a 32x32 color image. This data is stored in the form of large binary files which can be accesed by a Matlab toolbox that we have written. You will need around 400Gb of free disk space to store all the files. In total there are 5 files that need to be downloaded, 3 of which are large binary files consisting of (i) the images themselves; (ii) their associated metadata (filename, search engine used, ranking etc.); (iii) Gist descriptors for each image. The other two files are the Matlab toolbox and index data file that together let you easily load in data from the binaries. 
 
+### Labeled Faces in the Wild
+- The data set contains more than 13,000 images of faces collected from the web. Each face has been labeled with the name of the person pictured. 1680 of the people pictured have two or more distinct photos in the data set.
+- http://vis-www.cs.umass.edu/lfw/
+
 ## Website data
 ### nico-opendata
 - ニコニコ静画（イラスト）のリサイズ済みデータセットニコニコ静画（イラスト）のデータセット / ニコニコ静画で投稿されたイラストのタグを学習した、Chainer用の学習済みモデルファイル / ニコニコ動画コメント等データセットおよびニコニコ大百科データ
