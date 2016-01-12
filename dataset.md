@@ -22,6 +22,10 @@
 - ニコニコ静画（イラスト）のリサイズ済みデータセットニコニコ静画（イラスト）のデータセット / ニコニコ静画で投稿されたイラストのタグを学習した、Chainer用の学習済みモデルファイル / ニコニコ動画コメント等データセットおよびニコニコ大百科データ
 - https://nico-opendata.jp/ja/index.html
 
+### MovieLens
+- rating data sets from the MovieLens web site (http://movielens.org).
+- http://grouplens.org/datasets/movielens/
+
 ### The YP Corpus (The YP Dataset)
 - YouPorn dataset. It contains Video IDs, Categories/Tags, Avg. Rating, Ratings Count, Full Video Title, Nicknames and Comments
 - http://blog.uni-mannheim.de/mschuhma/yp-corpus/
