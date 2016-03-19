@@ -77,6 +77,10 @@ This is a list of text corpora available to free of charge
 - The Open American National Corpus (OANC) is a massive electronic collection of American English, including texts of all genres and transcripts of spoken data produced from 1990 onward. All data and annotations are fully open and unrestricted for any use.
 - http://www.anc.org/
 
+### TYPO CORPUS
+- This corpus is a collection of typos in tweets. The corpus consists of pairs of a typo and its original form (such as gogle:google). The typos dealt with this research are classified into four types
+- http://luululu.com/tweet/
+
 ### Raw
 
 #### The 20 Newsgroups data set
