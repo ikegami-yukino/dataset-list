@@ -17,6 +17,10 @@
 - The data set contains more than 13,000 images of faces collected from the web. Each face has been labeled with the name of the person pictured. 1680 of the people pictured have two or more distinct photos in the data set.
 - http://vis-www.cs.umass.edu/lfw/
 
+### notMNIST
+- I've taken some publicly available fonts and extracted glyphs from them to make a dataset similar to MNIST. There are 10 classes, with letters A-J taken from different fonts.
+- http://yaroslavvb.blogspot.jp/2011/09/notmnist-dataset.html
+
 ## Website data
 ### nico-opendata
 - ニコニコ静画（イラスト）のリサイズ済みデータセットニコニコ静画（イラスト）のデータセット / ニコニコ静画で投稿されたイラストのタグを学習した、Chainer用の学習済みモデルファイル / ニコニコ動画コメント等データセットおよびニコニコ大百科データ
