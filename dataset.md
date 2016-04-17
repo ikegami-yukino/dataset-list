@@ -44,3 +44,8 @@
 - This in an exhaustive dataset of metadatas of all videos published on the site from its creation - 2007 - until february 2013. This represents almost 800,000 entries.
 - http://sexualitics.github.io/
 - Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+
+## MISC
+### LIBSVM Data: Classification, Regression, and Multi-label
+- This page contains many classification, regression, multi-label and string data sets stored in LIBSVM format. Many are from UCI, Statlog, StatLib and other collections.
+- http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/
