@@ -20,6 +20,10 @@ This is a list of text corpora available to free of charge
 - 4テーマ（京都観光、携帯電話、スポーツ、グルメ）、249記事、4,186文の解析済みブログコーパス。形態素、構文、格・省略・照応、評判情報がアノテーションされている。
 - http://nlp.ist.i.kyoto-u.ac.jp/kuntt
 
+#### 言語モデル配布ページ
+- ウェブデータ、現代日本語書き言葉コーパスから作成した音声認識用と仮名漢字変換用の N-gram を配布しています。
+- http://plata.ar.media.kyoto-u.ac.jp/gologo/lm.html
+
 #### 場所参照表現タグ付きコーパス
 - 本コーパスは，Twitterからランダムにサンプリングしたテキストに現れる，「特定の場所を著者が想定している」と判断できる表現に対して，実際にどのエンティティを指しているかを人手で判断しエンティティ情報を付与したコーパスです．GeoNLPなどのジオパーズシステム，エンティティリンキングシステム等の開発や評価に利用することを想定して構築されました．
 - http://www.cl.ecei.tohoku.ac.jp/~matsuda/LRE_corpus/
