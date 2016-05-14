@@ -77,6 +77,10 @@ This is a list of text corpora available to free of charge
 - 会誌「自然言語処理」に掲載された論文のLaTeXのソースファイル
 - http://www.anlp.jp/resource/journal_latex/
 
+#### cannadic改
+- cannadic を拡充した"かな漢字変換辞書"です。
+- https://osdn.jp/projects/alt-cannadic/
+
 ## English
 
 ### Annotated
