@@ -72,6 +72,10 @@ This is a list of text corpora available to free of charge
 - https://web.archive.org/web/*/http://www.baidu.jp/corpus/
 - https://web.archive.org/web/20101130153412/http://www.baidu.jp/corpus/Baidu_Terms_and_condition_Corpus.pdf
 
+### Parallel translation
+- Wikipedia日英京都関連文書対訳コーパス
+- https://alaginrc.nict.go.jp/WikiCorpus/
+
 ### etc
 #### 言語処理学会論文誌LaTeXコーパス
 - 会誌「自然言語処理」に掲載された論文のLaTeXのソースファイル
