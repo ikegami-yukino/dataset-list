@@ -97,6 +97,10 @@ This is a list of text corpora available to free of charge
 - This corpus is a collection of typos in tweets. The corpus consists of pairs of a typo and its original form (such as gogle:google). The typos dealt with this research are classified into four types
 - http://luululu.com/tweet/
 
+### 30M Factoid Question-Answer Corpus
+- The 30M Factoid Question-Answer Corpus consists of 30M natural language questions in English and their corresponding facts in the knowledge base Freebase.
+- http://agarciaduran.org/index.php/2016/02/20/data-set/
+
 ### Raw
 
 #### The 20 Newsgroups data set
