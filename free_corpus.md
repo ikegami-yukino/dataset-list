@@ -85,6 +85,11 @@ This is a list of text corpora available to free of charge
 - cannadic を拡充した"かな漢字変換辞書"です。
 - https://osdn.jp/projects/alt-cannadic/
 
+#### NAIST-JENE
+- Wikipedia (2005年10月29日版)に対する NYU 関根さんの拡張固有表現階層(v.6.1.4)を付与したもの。
+- https://github.com/masayu-a/NAIST-JENE
+- 研究利用の場合は自由
+
 ## English
 
 ### Annotated
