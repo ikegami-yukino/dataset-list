@@ -124,3 +124,8 @@ This is a list of text corpora available to free of charge
 - OPUS
 - OPUS is a growing collection of translated texts from the web. In the OPUS project we try to convert and align free online data, to add linguistic annotation, and to provide the community with a publicly available parallel corpus. 
 - http://opus.lingfil.uu.se/
+
+## Parallel corpus
+- 日西対照オノマトペコーパス
+- 日本語の擬声語・擬態語（オノマトペ）とそれに対応するスペイン語の翻訳
+- http://www.tufs.ac.jp/st/club/sevilla/
