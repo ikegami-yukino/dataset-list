@@ -34,6 +34,10 @@ This is a list of text corpora available to free of charge
 - http://pj.ninjal.ac.jp/corpus_center/cmj/woman-mag/
 - CC BY-NC-ND 3.0
 
+#### 日本語自然会話書き起こしコーパス（旧名大会話コーパス）
+- 約100時間分の雑談を文字化したコーパスです。 
+- https://nknet.ninjal.ac.jp/nuc/templates/nuc.html
+
 ### Raw text
 #### livedoor ニュースコーパス (livedoor news corpus)
 - 本コーパスは、NHN Japan株式会社が運営する「livedoor ニュース」のうち、下記のクリエイティブ・コモンズライセンスが適用されるニュース記事を収集し、可能な限りHTMLタグを取り除いて作成したものです。
