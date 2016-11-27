@@ -77,8 +77,13 @@ This is a list of text corpora available to free of charge
 - https://web.archive.org/web/20101130153412/http://www.baidu.jp/corpus/Baidu_Terms_and_condition_Corpus.pdf
 
 ### Parallel translation
-- Wikipedia日英京都関連文書対訳コーパス
+
+#### Wikipedia日英京都関連文書対訳コーパス
 - https://alaginrc.nict.go.jp/WikiCorpus/
+
+#### 日西対照オノマトペコーパス
+- 日本語の擬声語・擬態語（オノマトペ）とそれに対応するスペイン語の翻訳をコーパスの形にしたものです
+- http://www.tufs.ac.jp/st/club/sevilla/
 
 ### etc
 #### 言語処理学会論文誌LaTeXコーパス
