@@ -25,6 +25,10 @@
 - The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images
 - http://www.cs.toronto.edu/~kriz/cifar.html
 
+### YouTube-BoundingBoxes
+- YouTube-BoundingBoxes is a large-scale data set of video URLs with densely-sampled high-quality single-object bounding box annotations.
+- https://research.google.com/youtube-bb/
+
 ## Website data
 ### nico-opendata
 - ニコニコ静画（イラスト）のリサイズ済みデータセットニコニコ静画（イラスト）のデータセット / ニコニコ静画で投稿されたイラストのタグを学習した、Chainer用の学習済みモデルファイル / ニコニコ動画コメント等データセットおよびニコニコ大百科データ
