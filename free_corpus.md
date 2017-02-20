@@ -65,6 +65,10 @@ This is a list of text corpora available to free of charge
 - 日本の消滅危機言語・方言の音声データを紹介するページです。国立国語研究所では、共同研究プロジェクト「消滅危機方言の調査・保存のための総合的研究」(2010年度～2015年度)，「日本の消滅危機言語・方言の記録とドキュメンテーションの作成」(2016～2011年度)を実施しています。ここでは以下の地域のデータを公開しています。
 - http://kikigengo.ninjal.ac.jp
 
+#### Microsoft IME Corpus
+- it provides a test data set for the task of Japanese character conversion for text input.
+- https://www.microsoft.com/en-us/download/details.aspx?id=52316
+
 ### N-gram
 #### Baidu ブログ・掲示板時間軸コーパス
 - Baiduのクロールしたウェブデータから、掲示板の書き込みおよびブログの本文を、書き込まれた正確な時間とともに抽出し時系列に並べたデータを元にして作成したコーパスです。2000年1月～2010年7月の期間に対して、各1ヶ月ごとにスライスし、Nグラム（1グラム～3グラム）の統計を計算しています。
