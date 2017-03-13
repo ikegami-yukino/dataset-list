@@ -33,6 +33,10 @@
 - To the best of our knowledge this is the largest publicly available dataset of face images with gender and age labels for training. We provide pretrained models for both age and gender prediction.
 - https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 
+### STAIR Captions
+- Our dataset consists of 820,310 Japanese captions for 164,062 images.
+- http://captions.stair.center/
+
 ## Website data
 ### nico-opendata
 - ニコニコ静画（イラスト）のリサイズ済みデータセットニコニコ静画（イラスト）のデータセット / ニコニコ静画で投稿されたイラストのタグを学習した、Chainer用の学習済みモデルファイル / ニコニコ動画コメント等データセットおよびニコニコ大百科データ
