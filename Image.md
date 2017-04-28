@@ -28,6 +28,10 @@ This is a list of text corpora available to free of charge
 - The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images
 - http://www.cs.toronto.edu/~kriz/cifar.html
 
+### YouTube-8M Dataset
+- YouTube-8M is a large-scale labeled video dataset that consists of millions of YouTube video IDs and associated labels from a diverse vocabulary of 4700+ visual entities.
+- https://research.google.com/youtube8m/
+
 ### YouTube-BoundingBoxes
 - YouTube-BoundingBoxes is a large-scale data set of video URLs with densely-sampled high-quality single-object bounding box annotations.
 - https://research.google.com/youtube-bb/
