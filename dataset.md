@@ -5,6 +5,10 @@
 - VQA is a new dataset containing open-ended questions about images. These questions require an understanding of vision, language and commonsense knowledge to answer.
 - http://www.visualqa.org/index.html
 
+### VisDial Dataset
+- Code for the real-time chat interface used to collect the VisDial dataset on Amazon Mechanical Turk
+- https://visualdialog.org/data
+
 ## Website data
 ### nico-opendata
 - ニコニコ静画（イラスト）のリサイズ済みデータセットニコニコ静画（イラスト）のデータセット / ニコニコ静画で投稿されたイラストのタグを学習した、Chainer用の学習済みモデルファイル / ニコニコ動画コメント等データセットおよびニコニコ大百科データ
