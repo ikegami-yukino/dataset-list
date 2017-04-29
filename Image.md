@@ -47,3 +47,7 @@ This is a list of text corpora available to free of charge
 ### STAIR Captions
 - Our dataset consists of 820,310 Japanese captions for 164,062 images.
 - http://captions.stair.center/
+
+### Agricultural Human Detection and Tracking
+- The NREC Person Detection Dataset is a collection of off-road videos taken in an apple orchard and orange grove. The videos are collected with a set of visible people in a variety of outfits, locations, and times. We encourage you to train a detector on our dataset and submit your curves for display on this webpage.
+- http://www.nrec.ri.cmu.edu/projects/usdapersondetection/dataset/
