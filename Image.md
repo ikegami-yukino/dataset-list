@@ -44,6 +44,10 @@ This is a list of text corpora available to free of charge
 - Open Images is a dataset of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories.
 - https://github.com/openimages/dataset
 
+### CelebA Dataset
+- CelebFaces Attributes Dataset (CelebA) is a large-scale face attributes dataset with more than 200K celebrity images, each with 40 attribute annotations. The images in this dataset cover large pose variations and background clutter. CelebA has large diversities, large quantities, and rich annotations, including
+- http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+
 ### IMDB-WIKI – 500k+ face images with age and gender labels
 - To the best of our knowledge this is the largest publicly available dataset of face images with gender and age labels for training. We provide pretrained models for both age and gender prediction.
 - https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
