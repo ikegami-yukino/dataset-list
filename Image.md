@@ -40,6 +40,10 @@ This is a list of text corpora available to free of charge
 - YouTube-BoundingBoxes is a large-scale data set of video URLs with densely-sampled high-quality single-object bounding box annotations.
 - https://research.google.com/youtube-bb/
 
+### Open Images dataset
+- Open Images is a dataset of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories.
+- https://github.com/openimages/dataset
+
 ### IMDB-WIKI – 500k+ face images with age and gender labels
 - To the best of our knowledge this is the largest publicly available dataset of face images with gender and age labels for training. We provide pretrained models for both age and gender prediction.
 - https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
