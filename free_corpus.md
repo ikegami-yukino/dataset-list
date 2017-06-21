@@ -70,6 +70,9 @@ This is a list of text corpora available to free of charge
 - https://www.microsoft.com/en-us/download/details.aspx?id=52316
 
 ### N-gram
+#### NINJAL Web Japanese Corpus
+- 『国語研日本語ウェブコーパス』はウェブを母集団として100 億語規模を目標として構築した日本語コーパスです。 ウェブ（WWW）上の日本語テキストを利用して100億語を超える規模の現代日本語コーパスを構築することによって、稀言語現象の言語学的、心理学的および情報処理的視点からの究明の可能性を開くことを目的としています。 具体的な応用として、言語研究のための用例収集、日本語使用実態の定量的な把握などを想定しています。
+- http://nwjc-data.ninjal.ac.jp/
 #### Baidu ブログ・掲示板時間軸コーパス
 - Baiduのクロールしたウェブデータから、掲示板の書き込みおよびブログの本文を、書き込まれた正確な時間とともに抽出し時系列に並べたデータを元にして作成したコーパスです。2000年1月～2010年7月の期間に対して、各1ヶ月ごとにスライスし、Nグラム（1グラム～3グラム）の統計を計算しています。
 - https://web.archive.org/web/*/http://www.baidu.jp/corpus/
