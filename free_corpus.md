@@ -96,6 +96,10 @@ This is a list of text corpora available to free of charge
 - 日本語の擬声語・擬態語（オノマトペ）とそれに対応するスペイン語の翻訳をコーパスの形にしたものです
 - http://www.tufs.ac.jp/st/club/sevilla/
 
+#### small_parallel_enja: 50k En/Ja Parallel Corpus for Testing SMT Methods
+- This directory includes a small parallel corpus for English-Japanese translation task. These data are extracted from TANAKA Corpus by filtering sentence length 4 to 16 words.
+- https://github.com/odashi/small_parallel_enja
+
 ### etc
 #### 言語処理学会論文誌LaTeXコーパス
 - 会誌「自然言語処理」に掲載された論文のLaTeXのソースファイル
