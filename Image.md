@@ -59,3 +59,7 @@ This is a list of text corpora available to free of charge
 ### Agricultural Human Detection and Tracking
 - The NREC Person Detection Dataset is a collection of off-road videos taken in an apple orchard and orange grove. The videos are collected with a set of visible people in a variety of outfits, locations, and times. We encourage you to train a detector on our dataset and submit your curves for display on this webpage.
 - http://www.nrec.ri.cmu.edu/projects/usdapersondetection/dataset/
+
+### fashion-mnist
+- Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
+- https://github.com/zalandoresearch/fashion-mnist
