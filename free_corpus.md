@@ -144,12 +144,11 @@ This is a list of text corpora available to free of charge
 - The University of Oxford Text Archive develops, collects, catalogues and preserves electronic literary and linguistic resources for use in Higher Education, in research, teaching and learning. The OTA also gives advice on the creation and use of these resources, and is involved in the development of standards and infrastructure for electronic language resources.
 - https://ota.ox.ac.uk/
 
-## Any Language
+## Parallel corpus
 #### OPUS
 - OPUS is a growing collection of translated texts from the web. In the OPUS project we try to convert and align free online data, to add linguistic annotation, and to provide the community with a publicly available parallel corpus. 
 - http://opus.lingfil.uu.se/
 
-## Parallel corpus
 #### 日西対照オノマトペコーパス
 - 日本語の擬声語・擬態語（オノマトペ）とそれに対応するスペイン語の翻訳
 - http://www.tufs.ac.jp/st/club/sevilla/
