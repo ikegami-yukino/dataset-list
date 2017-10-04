@@ -105,6 +105,10 @@ This is a list of text corpora available to free of charge
 - https://github.com/masayu-a/NAIST-JENE
 - 研究利用の場合は自由
 
+#### 日本語単語類似度データセット (JapaneseWordSimilarityDataset)
+- 低頻度語を含む日本語に関する類似度データセットを構築しました。対象とした品詞は、動詞 (verb)・形容詞 (adj)・名詞 (noun)・副詞 (adv)になっています。
+- https://github.com/tmu-nlp/JapaneseWordSimilarityDataset
+
 ## English
 
 ### Annotated
