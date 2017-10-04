@@ -66,12 +66,16 @@ This is a list of text corpora available to free of charge
 - https://github.com/tomorinao/corpus
 
 #### 「日本の消滅危機言語・方言」データ
-- 日本の消滅危機言語・方言の音声データを紹介するページです。国立国語研究所では、共同研究プロジェクト「消滅危機方言の調査・保存のための総合的研究」(2010年度～2015年度)，「日本の消滅危機言語・方言の記録とドキュメンテーションの作成」(2016～2011年度)を実施しています。ここでは以下の地域のデータを公開しています。
+- 日本の消滅危機言語・方言の音声データを紹介するページです。国立国語研究所では、共同研究プロジェクト「消滅危機方言の調査・保存のための総合的研究」(2010年度～2015年度)，「日本の消滅危機言語・方言の記録とドキュメンテーションの作成」(2016～2011年度)を実施しています。
 - http://kikigengo.ninjal.ac.jp
 
 #### Microsoft IME Corpus
 - it provides a test data set for the task of Japanese character conversion for text input.
 - https://www.microsoft.com/en-us/download/details.aspx?id=52316
+
+#### ja.text8
+- ja.text8 is a small (100MB) text corpus from the web (japanese wikipedia).
+- https://github.com/Hironsan/ja.text8
 
 ### N-gram
 #### NINJAL Web Japanese Corpus
