@@ -143,6 +143,10 @@ This is a list of text corpora available to free of charge
 #### Wikipedia日英京都関連文書対訳コーパス
 - https://alaginrc.nict.go.jp/WikiCorpus/
 
+#### Tanaka Corpus
+- the Tanaka Corpus of parallel Japanese-English sentences
+- http://www.edrdg.org/wiki/index.php/Tanaka_Corpus
+
 #### 日西対照オノマトペコーパス
 - 日本語の擬声語・擬態語（オノマトペ）とそれに対応するスペイン語の翻訳をコーパスの形にしたものです
 - http://www.tufs.ac.jp/st/club/sevilla/
@@ -154,7 +158,3 @@ This is a list of text corpora available to free of charge
 #### OPUS
 - OPUS is a growing collection of translated texts from the web. In the OPUS project we try to convert and align free online data, to add linguistic annotation, and to provide the community with a publicly available parallel corpus. 
 - http://opus.lingfil.uu.se/
-
-#### 日西対照オノマトペコーパス
-- 日本語の擬声語・擬態語（オノマトペ）とそれに対応するスペイン語の翻訳
-- http://www.tufs.ac.jp/st/club/sevilla/
