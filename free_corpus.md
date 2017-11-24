@@ -139,6 +139,9 @@ This is a list of text corpora available to free of charge
 - The University of Oxford Text Archive develops, collects, catalogues and preserves electronic literary and linguistic resources for use in Higher Education, in research, teaching and learning. The OTA also gives advice on the creation and use of these resources, and is involved in the development of standards and infrastructure for electronic language resources.
 - https://ota.ox.ac.uk/
 
+#### SlothLib ストップワードリスト
+- http://svn.sourceforge.jp/svnroot/slothlib/CSharp/Version1/SlothLib/NLP/Filter/StopWord/word/Japanese.txt
+
 ## Parallel corpus
 #### Wikipedia日英京都関連文書対訳コーパス
 - https://alaginrc.nict.go.jp/WikiCorpus/
