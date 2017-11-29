@@ -33,6 +33,10 @@
 - http://sexualitics.github.io/
 - Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
 
+### Twitter日本語評判分析データセット
+- ツイートの評判情報をクラウドソーシングにより分析を行った結果
+- http://bigdata.naist.jp/~ysuzuki/data/twitter/
+
 ## MISC
 ### LIBSVM Data: Classification, Regression, and Multi-label
 - This page contains many classification, regression, multi-label and string data sets stored in LIBSVM format. Many are from UCI, Statlog, StatLib and other collections.
