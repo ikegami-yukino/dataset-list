@@ -63,3 +63,7 @@ This is a list of text corpora available to free of charge
 ### fashion-mnist
 - Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
 - https://github.com/zalandoresearch/fashion-mnist
+
+### DANBOORU2017: A LARGE-SCALE CROWDSOURCED AND TAGGED ANIME ILLUSTRATION DATASET
+- We create & provide a torrent which contains ~1.9tb of 2.94m images with 77.5m tag instances (of 333k defined tags, ~26.3/image) covering Danbooru from 24 May 2005 through 31 December 2017 (final ID: #2,973,532), providing the image files & a JSON export of the metadata.
+- https://www.gwern.net/Danbooru2017
