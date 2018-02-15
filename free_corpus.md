@@ -120,17 +120,21 @@ This is a list of text corpora available to free of charge
 - The Open American National Corpus (OANC) is a massive electronic collection of American English, including texts of all genres and transcripts of spoken data produced from 1990 onward. All data and annotations are fully open and unrestricted for any use.
 - http://www.anc.org/
 
-### Cornell Movie--Dialogs Corpus
+#### Cornell Movie--Dialogs Corpus
 - This corpus contains a large metadata-rich collection of fictional conversations extracted from raw movie scripts
 - http://www.mpi-sws.org/~cristian/Cornell_Movie-Dialogs_Corpus.html
 
-### TYPO CORPUS
+#### TYPO CORPUS
 - This corpus is a collection of typos in tweets. The corpus consists of pairs of a typo and its original form (such as gogle:google). The typos dealt with this research are classified into four types
 - http://luululu.com/tweet/
 
-### 30M Factoid Question-Answer Corpus
+#### 30M Factoid Question-Answer Corpus
 - The 30M Factoid Question-Answer Corpus consists of 30M natural language questions in English and their corresponding facts in the knowledge base Freebase.
 - http://agarciaduran.org/index.php/2016/02/20/data-set/
+
+#### Wikipedia Discussion Corpora
+- 英語版Wikipediaでの議論をコーパスにしたもの。
+- https://www.ukp.tu-darmstadt.de/data/discourse-analysis/wikipedia-discussion-corpora/
 
 ### Raw
 
