@@ -109,6 +109,9 @@ This is a list of text corpora available to free of charge
 - 低頻度語を含む日本語に関する類似度データセットを構築しました。対象とした品詞は、動詞 (verb)・形容詞 (adj)・名詞 (noun)・副詞 (adv)になっています。
 - https://github.com/tmu-nlp/JapaneseWordSimilarityDataset
 
+#### SlothLib ストップワードリスト
+- http://svn.sourceforge.jp/svnroot/slothlib/CSharp/Version1/SlothLib/NLP/Filter/StopWord/word/Japanese.txt
+
 ## English
 
 ### Annotated
@@ -138,9 +141,6 @@ This is a list of text corpora available to free of charge
 #### The University of Oxford Text Archive (OTA)
 - The University of Oxford Text Archive develops, collects, catalogues and preserves electronic literary and linguistic resources for use in Higher Education, in research, teaching and learning. The OTA also gives advice on the creation and use of these resources, and is involved in the development of standards and infrastructure for electronic language resources.
 - https://ota.ox.ac.uk/
-
-#### SlothLib ストップワードリスト
-- http://svn.sourceforge.jp/svnroot/slothlib/CSharp/Version1/SlothLib/NLP/Filter/StopWord/word/Japanese.txt
 
 ## Parallel corpus
 #### Wikipedia日英京都関連文書対訳コーパス
