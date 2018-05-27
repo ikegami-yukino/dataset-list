@@ -136,6 +136,10 @@ This is a list of text corpora available to free of charge
 - 英語版Wikipediaでの議論をコーパスにしたもの。
 - https://www.ukp.tu-darmstadt.de/data/discourse-analysis/wikipedia-discussion-corpora/
 
+#### HappyDB
+- HappyDB is a corpus of 100,000+ crowd-sourced happy moments.
+- https://github.com/rit-public/HappyDB
+
 ### Raw
 
 #### The 20 Newsgroups data set
