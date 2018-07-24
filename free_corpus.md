@@ -112,6 +112,10 @@ This is a list of text corpora available to free of charge
 #### SlothLib ストップワードリスト
 - http://svn.sourceforge.jp/svnroot/slothlib/CSharp/Version1/SlothLib/NLP/Filter/StopWord/word/Japanese.txt
 
+#### SNOW D18:日本語感情表現辞書
+- 約2,000表現を収録し、各表現に対して我々が独自に定義した48分類の感情を付与しています。
+- http://www.jnlp.org/SNOW/D18
+
 ## English
 
 ### Annotated
