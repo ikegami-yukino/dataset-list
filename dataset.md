@@ -41,3 +41,7 @@
 ### LIBSVM Data: Classification, Regression, and Multi-label
 - This page contains many classification, regression, multi-label and string data sets stored in LIBSVM format. Many are from UCI, Statlog, StatLib and other collections.
 - http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/
+
+### 食材の重さデータセット
+- 食材の重さをクラウドソーシングにより収集し，公開しています．レシピなどでよく，砂糖10グラムなどと書かれていますが，さんま100グラムなどはあまり書かれておらず，一匹や一切れという単位で書かれています．ところが，栄養などを測定する場合には，食材のグラムあたりの栄養価が書かれていることが多いです．そこで，レシピに書かれている単位とその重さの対応表を作成しました
+- http://bigdata.naist.jp/~ysuzuki/data/food/
