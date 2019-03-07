@@ -35,8 +35,18 @@ This is a list of text corpora available to free of charge
 - CC BY-NC-ND 3.0
 
 #### 日本語自然会話書き起こしコーパス（旧名大会話コーパス）
-- 約100時間分の雑談を文字化したコーパスです。 
+- 約100時間分の雑談を文字化したコーパスです。
 - https://nknet.ninjal.ac.jp/nuc/templates/nuc.html
+
+#### Twitter日本語評判分析データセット
+- ツイートの評判情報をクラウドソーシングにより分析し，分析結果を公開しています．携帯電話などのツイートを中心に，534,962件のツイートがの分析が行われています．このツイート量は，他のデータセットと比較しても多いです．作成者の知る限り最も規模が大きく，種類数の大きなデータセットです．最低 4 名以上の作業者により評価を行い，多数決を行った結果です．だいたい5名以上の作業者により評価を行っています．
+- http://bigdata.naist.jp/~ysuzuki/data/twitter/
+- CC-BY-ND 4.0
+
+#### NAIST-JENE
+- Wikipedia (2005年10月29日版)に対する NYU 関根さんの拡張固有表現階層(v.6.1.4)を付与したもの。
+- https://github.com/masayu-a/NAIST-JENE
+- 研究利用の場合は自由
 
 ### Raw text
 #### livedoor ニュースコーパス (livedoor news corpus)
@@ -101,11 +111,6 @@ This is a list of text corpora available to free of charge
 - cannadic を拡充した"かな漢字変換辞書"です。
 - https://osdn.jp/projects/alt-cannadic/
 
-#### NAIST-JENE
-- Wikipedia (2005年10月29日版)に対する NYU 関根さんの拡張固有表現階層(v.6.1.4)を付与したもの。
-- https://github.com/masayu-a/NAIST-JENE
-- 研究利用の場合は自由
-
 #### 日本語単語類似度データセット (JapaneseWordSimilarityDataset)
 - 低頻度語を含む日本語に関する類似度データセットを構築しました。対象とした品詞は、動詞 (verb)・形容詞 (adj)・名詞 (noun)・副詞 (adv)になっています。
 - https://github.com/tmu-nlp/JapaneseWordSimilarityDataset
@@ -121,11 +126,6 @@ This is a list of text corpora available to free of charge
 - emoji_jaは、Unicodeに登録されている絵文字に対して、日本語の読みやキーワード、分類を付与したデータセットです。Unicodeで定められている名称やアノテーションを元に構築しています。
 - https://yag-ays.github.io/project/emoji-ja/
 - MIT LICENSE
-
-#### Twitter日本語評判分析データセット
-- ツイートの評判情報をクラウドソーシングにより分析し，分析結果を公開しています．携帯電話などのツイートを中心に，534,962件のツイートがの分析が行われています．このツイート量は，他のデータセットと比較しても多いです．作成者の知る限り最も規模が大きく，種類数の大きなデータセットです．最低 4 名以上の作業者により評価を行い，多数決を行った結果です．だいたい5名以上の作業者により評価を行っています．
-- http://bigdata.naist.jp/~ysuzuki/data/twitter/
-- CC-BY-ND 4.0
 
 ## English
 
