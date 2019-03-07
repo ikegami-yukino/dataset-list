@@ -127,6 +127,11 @@ This is a list of text corpora available to free of charge
 - https://yag-ays.github.io/project/emoji-ja/
 - MIT LICENSE
 
+#### kanjivg-radical
+- 漢字を構成する部首や偏旁を容易に扱えるように対応付けしたデータセットです。
+- https://yag-ays.github.io/project/kanjivg-radical/
+- Creative Commons Attribution-ShareAlike 4.0 International License
+
 ## English
 
 ### Annotated
