@@ -184,3 +184,8 @@ This is a list of text corpora available to free of charge
 #### OPUS
 - OPUS is a growing collection of translated texts from the web. In the OPUS project we try to convert and align free online data, to add linguistic annotation, and to provide the community with a publicly available parallel corpus. 
 - http://opus.lingfil.uu.se/
+
+#### SNOW T15:やさしい日本語コーパス
+- ５万文をやさしい日本語（平易な日本語語彙）に書き換えた対訳コーパスです。テキストは機械翻訳用の日英対訳コーパスである small_parallel_enja: 50k En/Ja Parallel Corpus forTesting SMT Methods を使用し、このコーパスの各日本語文にやさしい日本語を付与する形でコーパスを作成しました。
+- http://www.jnlp.org/SNOW/T15
+- CC BY 4.0
