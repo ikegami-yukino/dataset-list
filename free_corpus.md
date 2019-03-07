@@ -122,6 +122,11 @@ This is a list of text corpora available to free of charge
 - https://yag-ays.github.io/project/emoji-ja/
 - MIT LICENSE
 
+#### Twitter日本語評判分析データセット
+- ツイートの評判情報をクラウドソーシングにより分析し，分析結果を公開しています．携帯電話などのツイートを中心に，534,962件のツイートがの分析が行われています．このツイート量は，他のデータセットと比較しても多いです．作成者の知る限り最も規模が大きく，種類数の大きなデータセットです．最低 4 名以上の作業者により評価を行い，多数決を行った結果です．だいたい5名以上の作業者により評価を行っています．
+- http://bigdata.naist.jp/~ysuzuki/data/twitter/
+- CC-BY-ND 4.0
+
 ## English
 
 ### Annotated
