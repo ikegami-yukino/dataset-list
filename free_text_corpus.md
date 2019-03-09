@@ -194,3 +194,8 @@ This is a list of text corpora available to free of charge
 - ５万文をやさしい日本語（平易な日本語語彙）に書き換えた対訳コーパスです。テキストは機械翻訳用の日英対訳コーパスである small_parallel_enja: 50k En/Ja Parallel Corpus forTesting SMT Methods を使用し、このコーパスの各日本語文にやさしい日本語を付与する形でコーパスを作成しました。
 - http://www.jnlp.org/SNOW/T15
 - CC BY 4.0
+
+#### 日英中基本文データ
+- 京都大学格フレームをベースに日本語の基本的な文を自動抽出し、人手で修正を行った5304文。
+- http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E6%97%A5%E8%8B%B1%E4%B8%AD%E5%9F%BA%E6%9C%AC%E6%96%87%E3%83%87%E3%83%BC%E3%82%BF
+- Creative Commons Attribution 3.0 Unported
