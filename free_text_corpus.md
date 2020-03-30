@@ -205,3 +205,7 @@ This is a list of text corpora available to free of charge
 - 京都大学格フレームをベースに日本語の基本的な文を自動抽出し、人手で修正を行った5304文。
 - http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E6%97%A5%E8%8B%B1%E4%B8%AD%E5%9F%BA%E6%9C%AC%E6%96%87%E3%83%87%E3%83%BC%E3%82%BF
 - Creative Commons Attribution 3.0 Unported
+
+#### JParaCrawl
+- JParaCrawl is the largest publicly available English-Japanese parallel corpus created by NTT. It was created by largely crawling the web and automatically aligning parallel sentences.
+- http://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/
