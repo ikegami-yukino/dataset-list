@@ -133,6 +133,11 @@ This is a list of text corpora available to free of charge
 - https://yag-ays.github.io/project/kanjivg-radical/
 - Creative Commons Attribution-ShareAlike 4.0 International License
 
+#### Japanese Word Similarity Dataset
+- We constructed our dataset following the Stanford Rare Word Similarity Dataset (RW) proposed by Luong et al. (2013). We extracted pairs of Japanese verbs (including sahen verb) and adjectives (both i-adjective and na-adjective) from Kodaira et al. (2016)'s Evaluation dataset for Japanese lexical simplification. We employed a crowdsourcing service (Lancers) to recruite 10 annotators to assign 11 levels of similarity for word pairs.
+- https://github.com/tmu-nlp/JapaneseWordSimilarityDataset
+- Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).
+
 ## English
 
 ### Annotated
