@@ -210,3 +210,8 @@ This is a list of text corpora available to free of charge
 #### JParaCrawl
 - JParaCrawl is the largest publicly available English-Japanese parallel corpus created by NTT. It was created by largely crawling the web and automatically aligning parallel sentences.
 - http://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/
+
+#### Engineer Vocabulary List in Japanese/English エンジニア向け日英ボキャブラリーリスト
+- エンジニア向けの日本語 / 英語ボキャブラリーリスト 日本語を勉強している人も、英語を勉強している人も使うことができる メルペイのミーティングで実際に使われているボキャブラリーをリスト化 中級レベル向けの厳選語彙100個
+- https://github.com/mercari/engineer-vocabulary-list
+- CC BY 4.0
