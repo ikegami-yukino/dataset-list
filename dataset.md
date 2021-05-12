@@ -46,3 +46,8 @@
 - 全国の町丁目レベル（189,540件）の住所データをオープンデータとして公開いたします。本データは、国土交通省位置参照情報ダウンロードサービスで配布されている「大字・町丁目レベル位置参照情報」をベースとしていますが、「大字・町丁目レベル位置参照情報」データは年に一回更新であるのに対して、本リポジトリで配布するデータは毎月更新しています。
 - https://github.com/geolonia/japanese-addresses
 - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+
+### Project CodeNet
+- There are a few differentiating features of Project CodeNet when compared to other similar efforts. In addition to the size of the dataset, the code samples are written in over 50 programming languages, though the dominant languages are C++, C, Python, and Java. The code samples in Project CodeNet are annotated with a rich set of information, such as the code size, memory footprint, CPU run time, and status, which indicates acceptance or error types. Over 90% of the problems come with the respective problem description, which contains a concise problem statement, specification of the input format and the output format. When available, we also extracted from the problem description sample input and output, and provide them as part of the dataset. Users can execute the accepted codes samples (over 50% of the submissions are accepted) to extract additional metadata and verify outputs from generative AI models for correctness.
+- https://github.com/IBM/Project_CodeNet
+- Apache License 2.0
