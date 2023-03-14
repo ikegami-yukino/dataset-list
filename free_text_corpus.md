@@ -122,7 +122,7 @@ This is a list of text corpora available to free of charge
 
 #### SNOW D18:日本語感情表現辞書
 - 約2,000表現を収録し、各表現に対して我々が独自に定義した48分類の感情を付与しています。
-- http://www.jnlp.org/SNOW/D18
+- https://www.jnlp.org/GengoHouse/snow/d18
 
 #### 📙UNICODE絵文字の日本語読み/キーワード/分類辞書📙
 - emoji_jaは、Unicodeに登録されている絵文字に対して、日本語の読みやキーワード、分類を付与したデータセットです。Unicodeで定められている名称やアノテーションを元に構築しています。
