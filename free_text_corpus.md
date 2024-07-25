@@ -36,9 +36,10 @@ This is a list of text corpora available to free of charge
 - http://pj.ninjal.ac.jp/corpus_center/cmj/woman-mag/
 - CC BY-NC-ND 3.0
 
-#### 日本語自然会話書き起こしコーパス（旧名大会話コーパス）
+#### 名大会話コーパス （旧日本語自然会話書き起こしコーパス）
 - 約100時間分の雑談を文字化したコーパスです。
-- https://nknet.ninjal.ac.jp/nuc/templates/nuc.html
+- https://mmsrv.ninjal.ac.jp/nucc/
+- https://www2.ninjal.ac.jp/conversation/nuc.html
 
 #### Twitter日本語評判分析データセット
 - ツイートの評判情報をクラウドソーシングにより分析し，分析結果を公開しています．携帯電話などのツイートを中心に，534,962件のツイートがの分析が行われています．このツイート量は，他のデータセットと比較しても多いです．作成者の知る限り最も規模が大きく，種類数の大きなデータセットです．最低 4 名以上の作業者により評価を行い，多数決を行った結果です．だいたい5名以上の作業者により評価を行っています．
